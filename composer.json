@@ -1,0 +1,17 @@
+{
+    "name": "danyk/phpgeoip",
+    "autoload": {
+        "psr-4": {
+            "Danyk\\Phpgeoip\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "danyk",
+            "email": "danykdev@gmail.com"
+        }
+    ],
+    "require": {
+        "geoip2/geoip2": "~2.0"
+    }
+}

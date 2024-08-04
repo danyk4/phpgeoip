@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/P3TERX/GeoLite.mmdb
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/249855791/193ea1fb-7b6d-4783-b074-6f297eb275ea?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240804T105423Z&X-Amz-Expires=300&X-Amz-Signature=5ba146d0324ad452d1693213df187ac91b647f63828d8394f35931fbc1900ba7&X-Amz-SignedHeaders=host&actor_id=22352208&key_id=0&repo_id=249855791&response-content-disposition=attachment%3B%20filename%3DGeoLite2-Country.mmdb&response-content-type=application%2Foctet-stream
